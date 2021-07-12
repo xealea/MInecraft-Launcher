@@ -2,6 +2,6 @@
   * Testing in: Voidlinux
 
 **How To Install**
-  * ./install
+  * `./install`
 
 **Done!**
