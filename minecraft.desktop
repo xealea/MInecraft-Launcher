@@ -3,7 +3,7 @@
 Type=Application
 Name=Minecraft
 Comment=Launcher Minecraft
-Path=/bin/
+Path=/usr/bin/
 Exec=minecraft-launcher
 Icon=minecraft
 Terminal=false
